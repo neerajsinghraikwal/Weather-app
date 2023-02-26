@@ -113,7 +113,7 @@ const Home = () => {
       ) : null}
       <h1 className="heading">Favourite</h1>
       <Favourite favourites={favourites} getData={getData}></Favourite>
-      <Box w="100%" h="400px"></Box>
+      <Box w="100%" h="1000px"></Box>
     </div>
   );
 };
