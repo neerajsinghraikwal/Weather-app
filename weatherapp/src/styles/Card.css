@@ -1,0 +1,12 @@
+.outercard{
+    height: 480px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.innercard > img{
+    width: 120px;
+    height: 120px;
+    color: #0d96a0;
+}
