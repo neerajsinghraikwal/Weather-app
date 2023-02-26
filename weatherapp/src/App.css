@@ -16,8 +16,6 @@
   margin: 0px;
 }
 .App{
-  width: 100vw;
-  height: 100vh;
   background-image: url("./assets/bgimage.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
